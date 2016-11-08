@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fuwuqixuanze",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6666666666666666,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -1,
+            -829
+          ]
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": [
+            -1,
+            137
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0.06666666666666667,
+          "value": 0
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 255
+        }
+      ]
+    }
+  },
+  "events": []
+}

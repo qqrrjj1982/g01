@@ -1,0 +1,13 @@
+{
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.RobotGirl",
+  "startScene": "d4579acc-2e6f-4c4c-ac4f-4804d1b2daf1",
+  "title": "RobotGirl",
+  "webOrientation": "auto"
+}
